@@ -1,8 +1,7 @@
 {
   "name": "docs.zenuml.com",
-  "version": "1.0.0",
-  "main": "index.js",
-  "author": "thaddeusjiang",
+  "version": "0.1.0",
+  "author": "Thaddeus Jiang",
   "license": "MIT",
   "private": false,
   "scripts": {

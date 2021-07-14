@@ -1,4 +1,4 @@
-# Get Started
+# Getting Started
 
 Start using the ZenUML confluence plugin in 5 minutes
 

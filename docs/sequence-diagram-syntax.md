@@ -1,4 +1,4 @@
-# Sequence diagram syntax
+# Sequence Diagram Syntax
 
 Most developers would find the syntax fairly familiar. The following example demonstrates some basic syntaxes.
 

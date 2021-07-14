@@ -11,6 +11,12 @@
 * Rapid drawing without drag-and-drop
 * Export to PNG/JPEG and PDF (on some platforms)
 
+The main targets of users
+
+* Agile development teams
+* Professional persons
+* Educational institutes
+
 ## Install
 
 Get the “Freemium” [ZenUML plugin via Atlassian Marketplace](https://marketplace.atlassian.com/apps/1218380/zenuml-diagrams-for-confluence-freemium?src=doc)
