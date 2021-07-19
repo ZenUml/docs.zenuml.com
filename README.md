@@ -15,6 +15,14 @@
 yarn install
 ```
 
+## Deploy
+
+```
+yarn docs:build
+
+firebase deploy
+```
+
 ## Author
 
 👤 **Thaddeus Jiang**
