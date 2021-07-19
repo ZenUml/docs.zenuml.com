@@ -2,6 +2,7 @@ module.exports = {
   title: "ZenUML Docs",
   description:
     "ZenUML is a sophisticated software modeler aimed to support agile and concise modeling with sequence diagrams.",
+  plugins: ["seo"],
   themeConfig: {
     nav: [
       { text: "Home", link: "https://zenuml.com/?src=docs" },
